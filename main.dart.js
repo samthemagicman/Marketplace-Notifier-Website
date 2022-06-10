@@ -83963,7 +83963,7 @@ $.aMg=A.x(t.N,t.bN)
 $.aCr=A.b(["default.conf"],t.s)
 $.auU=function(){var s=t.z
 return A.x(s,s)}()
-$.aqq="config"
+$.aqq="assets/config"
 $.aEF=null
 $.aEd=null
 $.aDC=null
